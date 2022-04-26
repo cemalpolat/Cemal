@@ -1,4 +1,7 @@
 public class ArianeSClass {
 
-    // intitial commit
+    // initial commit
+
+    // first change
+
 }
