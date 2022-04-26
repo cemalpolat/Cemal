@@ -7,5 +7,6 @@ public class ArianeSClass {
     public static void main(String[] args) {
         System.out.println("let's print something");
     }
+    // new change 1
 
 }
